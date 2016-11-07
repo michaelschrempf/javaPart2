@@ -10,7 +10,11 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 public class Main {
-		//TODO: main() is missing
+
+    public static void main(String[] args) {
+        
+    }
+    //TODO: main() is missing
 
 
     public void fillList(List<GeometricShape> shapeList) {
